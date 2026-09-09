@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+server/runs/
+*.log
+.DS_Store
+web/dist/
+server/dist/
+.vite/
+.playwright-mcp/
+test-results/
+tmp_*.cjs
+.~lock.*
